@@ -2,7 +2,7 @@
 
 I am a result driven frontend developer( coming from mecahnical background 🧑‍🔧). I have 1 years of experience in building web applications 💻.
 
-- 🔭 I’m currently working on [BookMyShow clone](https://github.com/DarkR4ger/bms-clone).
+- 🔭 I’m currently working on [BookMyShow clone](https://github.com/DarkR4ger/bmsclone).
 - 🌱 I’m currently learning [Svelte](https://svelte.dev/).
 - ⚡ Fun fact: I read manga 📖, play games 🎮 and watch anime 📺.
 
