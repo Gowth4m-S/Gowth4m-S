@@ -2,7 +2,7 @@
 
 I am a result driven frontend developer( coming from mecahnical background 🧑‍🔧). I have 1 years of experience in building web applications 💻.
 
-- 🔭 I’m currently working on [BookMyShow clone](https://github.com/DarkR4ger/bmsclone).
+- 🔭 I’m currently working on [BookMyShow clone](https://github.com/Gowth4m-S/bmsclone).
 - 🌱 I’m currently learning [Svelte](https://svelte.dev/).
 - ⚡ Fun fact: I read manga 📖, play games 🎮 and watch anime 📺.
 
@@ -23,8 +23,10 @@ I am a result driven frontend developer( coming from mecahnical background 🧑�
 [![MySql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) 
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) 
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/) 
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 </div>
 
 ## Projects 👷
 - [Portfolio](https://www.darkrager.in): Personal portfolio builded using nextjs, tailwindcss.
+- [BMSClone](https://github.com/Gowth4m-S/bmsclone): Online movie ticket booking app
